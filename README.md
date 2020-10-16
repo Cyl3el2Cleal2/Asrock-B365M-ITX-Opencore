@@ -1,4 +1,4 @@
-###To Test This Opencore for ASRock B365M-ITX (Replace WiFi Card with DW1820A)
+## To Test This Opencore for ASRock B365M-ITX (Replace WiFi Card with DW1820A)
  - Turn on os x
  - Plug usb drive
  - Open Disk Utility
