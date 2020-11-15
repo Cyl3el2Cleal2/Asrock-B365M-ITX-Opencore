@@ -1,4 +1,15 @@
+## My MacPro Spec
+
+| #   | Products                    | Notes                           |
+|-----|-----------------------------|---------------------------------|
+| CPU | Intel i5 9400F              |                                 |
+| M/B | Asrock B365M-ITX            | Replace Wifi card with DW1820A. |
+| RAM | Kington Predator RGB 8*2 GB |                                 |
+| SSD | SK hynix SC308 SATA         | OS X & EFI & First Boot         |
+ GPU | MSI RX580                   |                                 |
+
 ## To Test This Opencore for ASRock B365M-ITX (Replace WiFi Card with DW1820A)
+
  - Turn on os x
  - Plug usb drive
  - Open Disk Utility
