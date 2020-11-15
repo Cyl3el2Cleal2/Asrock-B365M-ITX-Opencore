@@ -11,3 +11,9 @@
  - Boot to Opencore then RESET NVRAM
  - And boot to Opencore then boot to OS X drive!
  - Enjoy.
+
+## Change Log
+
+- 2020/11/15
+  - Added support for Big Sur.
+  - Update Kexts.
